@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Producto 1",
+        "description": "Descripcion producto 1",
+        "code": "440",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/1.png",
+        "id": 1
+    },
+    {
+        "title": "Producto 3",
+        "description": "Descripcion producto 3",
+        "code": "443",
+        "price": 30,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/3.png",
+        "id": 3
+    },
+    {
+        "title": "Producto 4",
+        "description": "Descripcion producto 4",
+        "code": "444",
+        "price": 45,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/4.png",
+        "id": 4
+    },
+    {
+        "title": "Producto 5",
+        "description": "Descripcion producto 5",
+        "code": "445",
+        "price": 98,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/5.png",
+        "id": 5
+    },
+    {
+        "title": "Producto 6",
+        "description": "Descripcion producto 6",
+        "code": "446",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/6.png",
+        "id": 6
+    },
+    {
+        "title": "Producto 7",
+        "description": "Descripcion producto 7",
+        "code": "447",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/7.png",
+        "id": 7
+    },
+    {
+        "title": "Producto 8",
+        "description": "Descripcion producto 8",
+        "code": "448",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/8.png",
+        "id": 8
+    },
+    {
+        "title": "Producto 9",
+        "description": "Descripcion producto 9",
+        "code": "449",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/9.png",
+        "id": 9
+    },
+    {
+        "title": "Producto 10",
+        "description": "Descripcion producto 10",
+        "code": "450",
+        "price": 80,
+        "status": true,
+        "stock": 250,
+        "category": "Calzado",
+        "thumbnails": "/img/10.png",
+        "id": 10
+    }
+]
